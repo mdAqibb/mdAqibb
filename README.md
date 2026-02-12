@@ -6,7 +6,7 @@ I study in College — Cybersecurity, Blockchain and IoT as my major subjects.
 
 President of Code{x}-The Programming Club. (my university's coding club)
 
-Learning Network-Security, Web Penetration testing, Malware analysis, OSINT. I also Winning CTFs and Hackathons. 
+Learning Network-Security, Web Penetration testing, Malware analysis, OSINT. Active in CTFs and Hackathons. 
 
 
 tools/languages ? 
