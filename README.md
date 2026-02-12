@@ -1,43 +1,33 @@
 ## Hi there 👋
-I'm Mohammed Aqib, a security enthusiast. 
 
-I study in College — Cybersecurity, Blockchain and IoT as my major subjects.
+I'm Mohammed Aqib, a security enthusiast.
 
-President of Code{x}-The Programming Club. (my university's coding club)
+I study Cybersecurity, Blockchain, and IoT as my major subjects in college.
 
+President of **Code{x}** — my university’s programming club.
 
-Learning Network-Security, Web Penetration testing, Malware analysis, OSINT. 
+### Currently Learning
+- Network Security  
+- Web Penetration Testing  
+- Malware Analysis  
+- OSINT  
 
-Winning CTFs and Hackathons. 
+Competeting in CTFs  
+Participate in hackathons  
 
+### Tools & Languages
+- Burp Suite  
+- Wireshark  
+- Nmap  
+- Metasploit  
+- PowerShell  
+- Python  
+- Java  
 
-tools/languages ? 
+### Hobbies
+- Gym  
+- Speedcubing (12-second solves — and yes, I do have a life)
 
-burpsuite, wireshark, nmap, metasploit, powershell, python, java.
-
-
-Hobbies : gym, rubix cubes ( 12second solves, and yes — i do have a life. )
-
-
-Contact me :
-  
-  Email : 88maqib@gmail.com
-  
-  Linkedin ( link on profile, shoot me a text ) 
-
-
-
-<!--
-**mdAqibb/mdAqibb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me
+- 📧 Email: 88maqib@gmail.com  
+- 💼 LinkedIn: link on profile — feel free to reach out
