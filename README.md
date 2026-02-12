@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 I'm Mohammed Aqib, a security enthusiast. 
 
 I study in College — Cybersecurity, Blockchain and IoT as my major subjects.
