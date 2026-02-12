@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm Mohammed Aqib, a security enthusiast. I study in college — Cybersecurity, Blockchain and IoT as my major subjects.
+I'm Mohammed Aqib, a security enthusiast. 
+
+I study in College — Cybersecurity, Blockchain and IoT as my major subjects.
 
 President of Code{x}-The Programming Club. (my university's coding club)
 
@@ -11,6 +13,10 @@ tools/languages ?
 burpsuite, wireshark, nmap, metasploit, powershell, python, java.
 
 Hobbies : gym, rubix cubes ( 12second solves, and yes — i do have a life. )
+
+Contact me :
+  Email : 88maqib@gmail.com
+  Linkedin ( link on profile, shoot me a text ) 
 
 
 
