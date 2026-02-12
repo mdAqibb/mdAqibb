@@ -18,6 +18,8 @@ Hobbies : gym, rubix cubes ( 12second solves, and yes — i do have a life. )
 
 
 Contact me :
--Email : 88maqib@gmail.com
--LinkedIn : https://www.linkedin.com/in/88maqib/
 
+Email : 88maqib@gmail.com
+-
+LinkedIn : https://www.linkedin.com/in/88maqib/
+-
