@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Studying **Cybersecurity, Blockchain & IoT** at university
+- 🎓 Studying **Cybersecurity, Blockchain & IoT** at Woxsen university
 - 🏛️ President of **Code{X}** — my university's programming club
 - 🔐 Learning **Network Security, Web Pentesting, Malware Analysis & OSINT**
 - 🏆 Active in **CTF competitions and Hackathons**
